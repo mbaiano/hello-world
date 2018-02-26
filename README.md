@@ -1,2 +1,2 @@
-# hello-world
+# hello-world ...just a test of the Emergency Broadcast System. If this had been an actual emergency... 
 Test Repository
